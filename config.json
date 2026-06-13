@@ -1,0 +1,11 @@
+﻿{
+    "webhook_url":  "",
+    "private_server":  "",
+    "run_timeout":  "90",
+    "auto_rejoin_runs":  "300",
+    "vc_chat":  false,
+    "save_log":  false,
+    "initial_gems":  "0",
+    "initial_flowers":  "0",
+    "strategy":  "escort"
+}

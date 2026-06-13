@@ -1,0 +1,6 @@
+# Runtime-generated temporary folders
+_tmp/
+crash/
+logs/
+__pycache__/
+InazumaMangoAW3-v*.zip

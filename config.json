@@ -1,11 +1,22 @@
-﻿{
-    "webhook_url":  "",
-    "private_server":  "",
-    "run_timeout":  "90",
-    "auto_rejoin_runs":  "300",
-    "vc_chat":  false,
-    "save_log":  false,
-    "initial_gems":  "0",
-    "initial_flowers":  "0",
-    "strategy":  "escort"
+{
+  "webhook_url": "",
+  "private_server": "",
+  "escort_mode": "hoster",
+  "vc_chat": false,
+  "save_log": false,
+  "strategy": "escort",
+  "pain_place_min_delay": 8.5,
+  "spring_cam_rot_duration": 1.0,
+  "spring_cam_mouse_delta": 550,
+  "spring_2x_event": false,
+  "pd_difficulty": "easy",
+  "escort_difficulty": 1,
+  "escort_coins_per_run_1": 0,
+  "escort_coins_per_run_2": 0,
+  "escort_coins_per_run_3": 0,
+  "escort_coins_per_run_4": 0,
+  "escort_coins_per_run_5": 0,
+  "initial_coins_jtb": "0",
+  "initial_flowers": "0",
+  "initial_gems": "0"
 }

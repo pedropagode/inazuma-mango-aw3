@@ -1,5 +1,4 @@
 # Runtime-generated temporary folders
-_tmp/
 crash/
 logs/
 __pycache__/

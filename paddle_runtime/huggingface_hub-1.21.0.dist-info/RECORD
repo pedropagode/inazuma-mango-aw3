@@ -1,6 +1,6 @@
-../../bin/hf.exe,sha256=FLXpdh5KH2x_7AwDbrXYHlq7SCMbZK_mSWlOESG9KL4,108376
-../../bin/huggingface-cli.exe,sha256=5qP2Gq8H7XcV7AyZ4SpgUopHo31K773eDS7RBhE9FsI,108388
-../../bin/tiny-agents.exe,sha256=Q_anCp_VVQvhhQP2mZimfJQ8TBnKNaTf8CXClyQhWSM,108386
+../../bin/hf.exe,sha256=BuxBugEJr8AfF8kGEKF0aOmI3qHLCOG8V7cm0GKZz5I,108376
+../../bin/huggingface-cli.exe,sha256=kV-bcFTy-7ctsYeQGa2s8kaoG2RsG7ffn7-6UZ3WOiY,108388
+../../bin/tiny-agents.exe,sha256=d8L-FVM62N7pIN4ssbGZ4W21wo935QnRex3zF6z-QS4,108386
 huggingface_hub-1.21.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 huggingface_hub-1.21.0.dist-info/METADATA,sha256=ypSq86pVBEh3w3vMX69NtLKPesL6VNu4fSBl67qt1GA,14178
 huggingface_hub-1.21.0.dist-info/RECORD,,
